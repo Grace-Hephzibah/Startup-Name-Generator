@@ -1,16 +1,13 @@
-# Bi-Random Word Generator
+# Startup-Name-Generator
 
-A new Flutter application.
+The code generates a infinite series of words that is a connect of 2 random words. (Code Lab 3)
 
-## Getting Started
+## Home Page 
+<img src = "https://github.com/Grace-Hephzibah/Startup-Name-Generator/blob/main/Photos/4%205.png" width="300">
 
-This project is a starting point for a Flutter application.
+## WishList
+<img src = "https://github.com/Grace-Hephzibah/Startup-Name-Generator/blob/main/Photos/4%206.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks to 
+<a href = "https://developers.google.com/learn/pathways/intro-to-flutter#codelab-https://developers.google.com/codelabs/first-flutter-app-pt1"> Google </a>
+for this amazing Flutter pathway.
