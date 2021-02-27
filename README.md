@@ -1,4 +1,4 @@
-# startup_name_generator
+# Bi-Random Word Generator
 
 A new Flutter application.
 
